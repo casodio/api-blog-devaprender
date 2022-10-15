@@ -1,2 +1,2 @@
 python datab
-web: gunicorn app:api_flask
+web: gunicorn api_flask:app
